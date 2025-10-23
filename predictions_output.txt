@@ -1,0 +1,4 @@
+# Predictions placeholder
+# If you run fashion_cnn.py (TensorFlow path) or fashion_cnn.R, this file will be overwritten
+0
+1
